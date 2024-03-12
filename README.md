@@ -11,7 +11,7 @@
   <img height="50" src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg"/>
 </a>
 <a href="https://twitter.com/aominehg">
-  <img height="50" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-852x479.jpg)https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-852x479.jpg"/>
+  <img height="50" src="https://static.dezeen.com/uploads/2023/07/x-logo-twitter-elon-musk_dezeen_2364_col_0-1-852x479.jpg"/>
 </a>
 </p>
 
