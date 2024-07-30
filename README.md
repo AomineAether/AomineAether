@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-<a href="https://discord.com/aetherealco">
+<a href="https://discord.gg/aetherealco">
   <img height="50" src="https://static.vecteezy.com/system/resources/previews/006/892/625/non_2x/discord-logo-icon-editorial-free-vector.jpg"/>
 </a>
 <a href="https://twitter.com/aominehg">
