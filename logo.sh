@@ -1,17 +1,16 @@
-echo -e "\e[1;32m
+#!/bin/bash
 
+GREEN="\e[32m"
+AE='\033[0m'
 
-
-     _        _   _                         _   
-    / \   ___| |_| |__   ___ _ __ ___  __ _| |  
-   / _ \ / _ \ __| '_ \ / _ \ '__/ _ \/ _` | |  
-  / ___ \  __/ |_| | | |  __/ | |  __/ (_| | |_ 
- /_/   \_\___|\__|_| |_|\___|_|  \___|\__,_|_(_)
-                                                
-
-
-";
-echo -e "\e[0;37m Join our discord : https://discord.gg/aetherealco";
-echo -e "\e[0m"
-echo -e ""
-echo -e ""
+echo -e "${GREEN}"
+echo "  ###  #####  "
+echo " ####  ##### "
+echo " ## ## ##   "
+echo "##  ##  ##  "
+echo "####### ######"
+echo "##  ##  ##  "
+echo "##  ## #######"
+echo ""
+echo "Join our discord https://discord.gg/aetherealco"
+echo -e "${AE}"
