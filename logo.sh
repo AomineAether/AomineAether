@@ -3,8 +3,8 @@
 GREEN="\e[32m"
 
 echo -e "${GREEN}"
-echo "  ###  #####  "
-echo " ####  ##### "
+echo "  ###  #### "
+echo " ####  ### "
 echo " ## ## ##   "
 echo "##  ##  ##  "
 echo "####### ######"
